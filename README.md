@@ -4,7 +4,7 @@
 ### Dataset:
 * It involves 2 features:
    * 1st : Article - entire content of the article 
-   * 2nd : Tile - title of the article
+   * 2nd : Title of the article
 
 ### Methodology:
 * using TEXT SIMILARITY to determine how the two text documents close to each other in terms of their context or meaning. 
