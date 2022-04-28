@@ -27,7 +27,7 @@
 
 ### Creating a Recommendation column(new):
 * choosing the top 4 more correlated articles.
-* using argsort() : sorted + gets the corresponding Index of the values
+* using argsort() : sorted + gets the corresponding Index of the values.
 * data["Title"].loc[[1, 33, 21, 5, 7]] : gets the corresponding title of the Index. 
 
 ### Conclusion:
